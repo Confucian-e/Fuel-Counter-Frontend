@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-# Fuel-Counter-Frontend
-The frontend for counter dapp on Fuel Network
-
->>>>>>> 4edd801444af970a6d283b420e11afaf15a91476
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
